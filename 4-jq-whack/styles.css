@@ -1,0 +1,25 @@
+body {
+    background: #9de45b;
+}
+
+.game {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 600px;
+}
+
+.yard {
+    width: 200px;
+}
+
+img {
+    width: 200px;
+    height: 196px;
+}
+
+button {
+    background-color:#9de45b;
+    border-width:0px;
+}
