@@ -1,7 +1,7 @@
 $(".replyYes").click(function() {
-    $(".color").css("background-image","url(https://yishuai.github.io/img/Homer_Simpson_2006.png)")
+    $(".color").css("background-image","url(https://xinbaobao3775.github.io/zuopin/CH12/img/tian-tian-quan.jpg)")
     //背景图片
-    $(".png").css("src","img\haochi.jpg");
+    $(".png").attr("src","https://xinbaobao3775.github.io/zuopin/CH12/img/haochi.jpg");
     //人物图片
 });
 
