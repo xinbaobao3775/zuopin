@@ -15,7 +15,7 @@ function Judgment (answer,txt,correctAnswer) {
 $(".englishButton").click(function(){
     let englishInput = $(".english").val();
     englishInput = englishInput.toLowerCase();
-    Judgment(englishInput,".englishMessage","Monday");
+    Judgment(englishInput,".englishMessage","monday");
 });
 
 
