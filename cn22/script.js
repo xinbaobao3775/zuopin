@@ -30,6 +30,7 @@ $("button").click(function() {
         $(".NullUsername").css("font-size","30px");
     }
 
-    if (username === correctUsername && password === correctUsername);
-    $(".login").text("欢迎回来");
+    if (username === correctUsername && password === correctUsername) {
+        $(".login").text("欢迎回来");
+    }
 });
